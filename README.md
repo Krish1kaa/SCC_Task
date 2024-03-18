@@ -37,8 +37,7 @@ You can find the assets used in this project in the [Assets Folder](https://driv
 
 ## Deployment
 
-The website is deployed using [Netlify](https://www.netlify.com/) at [https://your-netlify-site-url.com](https://your-netlify-site-url.com).
-
+The website is deployed using [Netlify](https://www.netlify.com/) at [(https://scc-task.netlify.app/)]
 ## Screenshots
 
 <img width="960" alt="Screenshot 2024-03-18 231605" src="https://github.com/Krish1kaa/SCC_Task/assets/150791638/6ba048ce-2fbf-4fca-8c72-21d8112fd3e0">
