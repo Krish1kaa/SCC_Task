@@ -27,7 +27,7 @@ You can find the assets used in this project in the [Assets Folder](https://driv
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/humankind-clone.git
+   git clone https://github.com/Kris1kaa/humankind-clone.git
    ```
 2. Navigate to the project directory:
    ```sh
